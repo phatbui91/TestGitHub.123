@@ -12,5 +12,13 @@ namespace TestGitHub._123.Controllers
         {
             return View();
         }
+        public IActionResult Index123()
+        {
+            return View();
+        }
+        public IActionResult Index12345()
+        {
+            return View();
+        }
     }
 }
