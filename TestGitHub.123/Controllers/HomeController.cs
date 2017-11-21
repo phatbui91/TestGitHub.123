@@ -31,5 +31,10 @@ namespace TestGitHub._123.Controllers
         {
             return View();
         }
+
+        public IActionResult TEST()
+        {
+            return View();
+        }
     }
 }
